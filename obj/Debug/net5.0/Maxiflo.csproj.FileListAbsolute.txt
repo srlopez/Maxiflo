@@ -1,0 +1,16 @@
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\Maxiflo.exe
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\Maxiflo.deps.json
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\Maxiflo.runtimeconfig.json
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\Maxiflo.runtimeconfig.dev.json
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\Maxiflo.dll
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\ref\Maxiflo.dll
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\bin\Debug\net5.0\Maxiflo.pdb
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.csproj.AssemblyReference.cache
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.AssemblyInfoInputs.cache
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.AssemblyInfo.cs
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.csproj.CoreCompileInputs.cache
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.dll
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\ref\Maxiflo.dll
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.pdb
+C:\Users\ir012108abc\dev\entornos\net\Maxiflo\obj\Debug\net5.0\Maxiflo.genruntimeconfig.cache
