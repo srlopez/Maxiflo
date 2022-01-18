@@ -51,7 +51,9 @@ namespace Maxiflo.UI.Consola
             var d1 = _vista.TryObtenerDatoDeTipo<int>("dame el d1");
             var n2 = _vista.TryObtenerDatoDeTipo<int>("dame el n2");
             var d2 = _vista.TryObtenerDatoDeTipo<int>("dame el d2");
-            var suma = _sistema.Sumar(n1,d1,n2,d2);
+            Fraccion frac1=new Fraccion(n1,d1);
+            Fraccion frac2=new Fraccion(n2,d2);
+            var suma = _sistema.Sumar(frac1,frac2);
             _vista.Mostrar(suma);
             }
             catch{

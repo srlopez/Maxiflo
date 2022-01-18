@@ -1,16 +1,19 @@
 using System;
 using System.Collections.Generic;
 
+
 namespace Maxiflo
 {
     public class Sistema
     {
        
-       public string Sumar(int n1, int d1, int n2, int d2){
-           var nr= n1*d2 + n2*d1;
-           var dr= d2*d1;
-           return $"{nr}/{dr}";
+       public Fraccion Sumar(Fraccion frac1,Fraccion frac2 ){
+           var dr=frac1.denom*frac2.denom;
+           var nr= (frac1.num * frac2.denom) + (frac1.denom * frac2.num);
+           Fraccion fracReslt = new Fraccion(nr, dr);
+           return fracReslt;
        }
+
 
 
     }
